@@ -1,6 +1,7 @@
 ---
-title: Welcome to Digital Garden
+title: Bem-vindo ao meu Jardim Digital
 ---
+> "A vida é um jardim, não um campo de batalha." - Paulo Coelho
 
 Hi there!
 
