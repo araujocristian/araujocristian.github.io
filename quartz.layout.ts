@@ -23,17 +23,23 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.PageTitle(),
+    Component.Flex({
+      components: [{ Component: Component.PageTitle(), grow: true }],
+    }),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
         {
-          Component: Component.Search(),
+          Component: Component.DesktopOnly(Component.Search()),
           grow: true,
+        },
+        {
+          Component: Component.MobileOnly(Component.Search({ showTitle: false })),
         },
         { Component: Component.Darkmode() },
       ],
     }),
+    Component.DesktopOnly(Component.RecentNotes()),
     Component.Explorer(),
   ],
   right: [
