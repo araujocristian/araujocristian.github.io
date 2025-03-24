@@ -19,6 +19,7 @@ tags:
 - React (EpicDev)
 - Arquitetura (Email)
 - Tech Lead Club (Insta)
+- NAIU Mergulhador
 - English
 	- Diario 30min - 9:30
 #### Férias:
@@ -64,5 +65,6 @@ tags:
 - Futsal
 	- Domingos 09:00 (a cada 15 dias??)
 #### Saúde:
-- Terapia
-- 
+- Terapia - 1x 15 Dias
+- Nutri - 1x Mês
+- Personal - 1x Mês
