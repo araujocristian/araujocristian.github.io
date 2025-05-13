@@ -7,10 +7,12 @@ import { i18n } from "../i18n"
 
 export interface SearchOptions {
   enablePreview: boolean
+  showTitle: boolean
 }
 
 const defaultOptions: SearchOptions = {
   enablePreview: true,
+  showTitle: true,
 }
 
 export default ((userOpts?: Partial<SearchOptions>) => {
@@ -20,7 +22,7 @@ export default ((userOpts?: Partial<SearchOptions>) => {
     return (
       <div class={classNames(displayClass, "search")}>
         <button class="search-button">
-          <p>{i18n(cfg.locale).components.search.title}</p>
+          {opts.showTitle && <p>{i18n(cfg.locale).components.search.title}</p>}
           <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7">
             <title>Search</title>
             <g class="search-path" fill="none">
