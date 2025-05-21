@@ -2,6 +2,9 @@
 title: Terminologia de Navegação e Definições
 draft: false
 tags:
+  - "#scubaDive"
+  - "#naui"
+  - "#advancedOpenWater"
 ---
 Algumas terminologias importantes para fixar durante o processo de mergulho:
 

@@ -19,6 +19,8 @@ A ideia é guardar aquilo que "repercute" em você, sempre respeitando sua intui
 
 Devemos organizar de acordo com o que estamos projetando, dando mais viabilidade para a ação! Sempre se perguntar: *Como isso que estou fazendo está me aproximando ou me afastando do meu projeto principal?*
 
+Algo que pode ajudar é o [[Método PARA]] para organizar pastas.
+
 ### Destilar
 > "Encontre a essência!"
 

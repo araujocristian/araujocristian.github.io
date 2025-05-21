@@ -24,10 +24,10 @@ tags:
 	- Diario 30min - 9:30
 #### Férias:
 - 18/04 - 04/05
-	- 20-21/04 - Campina Grande/PB
-	- 21-24/04 - João Pessoa/PB
-	- 24-25/04 - Pipa/RN
-	- 25-29/04 - Campina Grande/PB
+	- 20-22/04 - Campina Grande/PB - Voo 20/04 | 23:55
+	- 22-25/04 - João Pessoa/PB
+	- 25-26/04 - Pipa/RN
+	- 26-29/04 - Campina Grande/PB - Voo 29/04 | 03:10
 - 20/06 - 29/06
 	- ??-??/06 - Aulas de Surf Itacaré
 - 20/11 - 09/12
