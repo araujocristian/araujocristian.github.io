@@ -38,15 +38,9 @@ tags:
 	- Marcar aulas práticas
 	- Organizar para fazer mergulhos mais diversos
 	- Organizar locais para ter experiencias de mergulho
-- Aulas de Cerâmica (ATELIÊ AMON - CEO SALVADOR SHOPPING)
-	- Primeira aula 29/03 - 11:30 - 13:30 
-	- Aulas regulares?
 - Aulas de Surf (PAULO CAMPOS - JAGUARIBE)
 	- Quartas pela manha? 
 	- 1x na Semana?
-- Aulas de Teatro (SESC - CASA DO COMERCIO)
-	- Segundo semestre SESC?
-	- Aulas particulares?
 - Aulas de Forró (???)
 #### Exercícios:
 - Natação Piscina
