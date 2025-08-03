@@ -40,12 +40,12 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
-    Component.DesktopOnly(Component.RecentNotes()),
   ],
   right: [
-    // Component.Graph(),
+    Component.DesktopOnly(Component.RecentNotes()),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.Graph()
   ],
 }
 
