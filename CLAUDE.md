@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Quartz v4 digital garden — a static site generator that publishes Obsidian markdown notes as a website. Published at **araujocristian.github.io**. Content is written in Portuguese and English.
+Quartz v4.5.2 digital garden — a static site generator that publishes Obsidian markdown notes as a website. Published at **araujocristian.github.io**. Content is written in Portuguese and English. Upstream remote (`upstream`) tracks `jackyzha0/quartz`.
 
 ## Commands
 
@@ -48,6 +48,11 @@ Quartz uses a **parse → transform → filter → emit** pipeline:
 ## Deployment
 
 Pushes to the **v4** branch trigger GitHub Actions (`.github/workflows/deploy.yml`) which builds and deploys to GitHub Pages. The v4 branch is both the main branch and the deploy branch.
+
+## Customizations (2 files diverge from upstream)
+
+- `quartz/components/Footer.tsx` — `target="_blank" rel="noopener noreferrer"` on footer links
+- `quartz/components/Search.tsx` — `showTitle` option (defaults to `true`) to toggle search button label
 
 ## Working with Content
 
